@@ -13,9 +13,9 @@
   
 ###   - If you don't have an IDE, we suggest using these IDEs:
      
-   ###  - PyCharm Community
-   ###  - Visual Studio
-   ###  - Visual Studio Code (While VS Code is not an IDE, it still is a powerful tool.)
+###     - PyCharm Community
+###     - Visual Studio
+###     - Visual Studio Code (While VS Code is not an IDE, it still is a powerful tool.)
  
 ## 5. Open the root folder of Palsyntax in your IDE.
 ## 6. Display the contents of the folder "dist".
