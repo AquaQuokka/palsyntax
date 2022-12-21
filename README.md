@@ -13,9 +13,9 @@
   
 ###   - If you don't have an IDE, we suggest using these IDEs:
      
-   #### - PyCharm Community
-   #### - Visual Studio
-   #### - Visual Studio Code (While VS Code is not an IDE, it still is a powerful tool.)
+   ### - PyCharm Community
+   ### - Visual Studio
+   ### - Visual Studio Code (While VS Code is not an IDE, it still is a powerful tool.)
  
 ## 5. Open the root folder of Palsyntax in your IDE.
 ## 6. Display the contents of the folder "dist".
@@ -35,7 +35,3 @@
 ## 9. Move back to your IDE terminal, and type in the following command:
 
   ### - $ pip install <copied path>
-  
-  ### 10. Wait for the module to install.
-
-  ### 11. You are good to go!
