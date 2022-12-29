@@ -19,4 +19,4 @@
 ## 10. Make sure you have Python 3 and pip installed.
 
 ## 11. Run the following command in your IDE's terminal:
-###    - $ pip install <copied path>
+###    - $ pip install (copied path)
