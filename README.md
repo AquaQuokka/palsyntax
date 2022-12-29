@@ -20,3 +20,9 @@
 
 ## 11. Run the following command in your IDE's terminal:
 ###    - $ pip install (copied path)
+
+
+
+# Note
+
+## It is extremely important that you import each function you wish to use.
